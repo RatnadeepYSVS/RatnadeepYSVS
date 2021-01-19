@@ -1,5 +1,5 @@
 ### Hi,I am Ratnadeep!👋                                                                                          
-<img src="https://im3.ezgif.com/tmp/ezgif-3-aefe75807420.gif">                         
+<img src="https://www.bootgum.com/wp-content/uploads/2018/07/Robot550watermarked.gif" >                       
 
 - 🔭 I’m currently working on Automation,Full Stack.
 - 🌱 I’m currently learning Cloud Tech.
