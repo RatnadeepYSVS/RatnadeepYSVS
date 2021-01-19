@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Cloud Tech.
 - 👯 I’m looking to collaborate on automation projects.                           
 - 🤔 I’m looking for help with Android.
-- 💬 Ask me about python.
+- 💬 Ask me about Tech and Games.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ratnadeep-yeleswarapu-9586661b3/) [Whatsapp](https://wa.me/919177410501)
       [mail](mailto:ratnadeepysvs@protonmail.com)
 - 😄 Pronouns: He/His.
