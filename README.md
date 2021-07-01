@@ -1,4 +1,4 @@
-### Hi,I am [Ratnadeep](https://ratnadeepy.vercel.app)!👋                              
+### Hi,I am Ratnadeep👋                              
 <p align="center">
   <img width="400" height="400" src="https://bit.ly/3jvDJuf">
 </p>
