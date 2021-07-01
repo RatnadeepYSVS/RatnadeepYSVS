@@ -1,6 +1,6 @@
 ### Hi,I am [Ratnadeep](https://ratnadeepy.vercel.app)!👋                              
 <p align="center">
-  <img width="400" height="400" src="https://bit.ly/3duTg9N">
+  <img width="400" height="400" src="https://bit.ly/3jvDJuf">
 </p>
                            
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ratnadeep-yeleswarapu-14215420a/) [Whatsapp](https://wa.me/919177410501)
