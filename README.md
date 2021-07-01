@@ -1,5 +1,5 @@
 ### Hi,I am [Ratnadeep](https://ratnadeepy.vercel.app)!👋                                                                                          
-<img src="https://thumbs.gfycat.com/FragrantDirectBug-small.gif" >                       
+<img src="https://media1.tenor.com/images/fdb075a926f371c5dab00524a7e04e20/tenor.gif?itemid=10035189" >                       
 
 - 🔭 I’m currently working on Automation.
 - 🌱 I’m currently learning Cloud Tech.
