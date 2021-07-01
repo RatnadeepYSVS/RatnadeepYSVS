@@ -14,7 +14,6 @@
       <a href='#'><img src='https://bit.ly/2TpOGmA' width="100" height="100"></a>
 </p>
 <p align="center">
-  <img width="300"src="https://bit.ly/3jxDTRX">
   <img width="500"src="https://bit.ly/2UkJoZu">
 </p>
 <p align="center">
