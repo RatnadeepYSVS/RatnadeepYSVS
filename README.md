@@ -16,8 +16,10 @@
       <a href='https://bit.ly/2TufNwG'><img src='https://bit.ly/3hueE0p' width="90" height="90"></a>
       <a href='mailto:ratnadeepysvs@protonmail.com'><img src='https://iconape.com/wp-content/png_logo_vector/mail-ios.png' width="90" height="100"></a>
 </p>
+<h3 align='center'>Stats</h3>
 <p align="center">
-  <img width="500"src="https://bit.ly/2UkJoZu">
+  <img width="500"src="https://bit.ly/3jFn6N4">
+  <img width="400"src="https://bit.ly/3hb3ZZk">
 </p>
 <p align="center">
   <img width="600"src="https://bit.ly/3qGNeZq">
