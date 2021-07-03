@@ -19,7 +19,7 @@
 <h3 align='center'>Stats</h3>
 <p>
   <img width="500"src="https://bit.ly/3ylMdIS">
-  <img width="400"src="https://bit.ly/3xjeuiX">
+  <img width="300"src="https://bit.ly/3xjeuiX">
 </p>
 <p align="center">
   <img width="600"src="https://bit.ly/3qGNeZq">
