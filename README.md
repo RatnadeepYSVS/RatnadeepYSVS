@@ -1,6 +1,6 @@
 ### Hi,I am [Ratnadeep](https://ratnadeepysvs.vercel.app/)👋                              
 <p align="center">
-  <img width="900" height="600" src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/programmer.gif">
+  <img width="600" height="400" src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/programmer.gif">
 </p>
 <h3 align='center'>Tools and Languages I use</h3>
 <p align='center'>
