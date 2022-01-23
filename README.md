@@ -9,11 +9,3 @@
       <a href='#'><img src='https://bit.ly/3jyFua4' width="90" height="100"></a>
       <a href='#'><img src='https://bit.ly/2TpOGmA' width="100" height="100"></a>
 </p>
-<h3 align='center'>Stats</h3>
-<p>
-  <img width="450"src="https://bit.ly/3ylMdIS">
-  <img width="350"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatnadeepYSVS&layout=compact">
-</p>
-<p align="center">
-  <img width="600"src="https://bit.ly/3qGNeZq">
-</p>
