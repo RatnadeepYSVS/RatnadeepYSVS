@@ -1,6 +1,6 @@
 ### Hi,I am [Ratnadeep](https://ratnadeepysvs.vercel.app/)👋                              
 <p align="center">
-  <img width="400" height="400" src="https://miro.medium.com/max/842/1*Cp0fpBqgGxt3Sb_mWClqww.gif">
+  <img width="900" height="600" src="https://thumbs.gfycat.com/GrossSphericalFulmar-max-1mb.gif">
 </p>
 <h3 align='center'>Tools and Languages I use</h3>
 <p align='center'>
