@@ -10,6 +10,6 @@
       <a href='#'><img src='https://bit.ly/2TpOGmA' width="100" height="100"></a>
 </p>
 <h3 align='center'>Stats</h3>
-<p>
+<p align='center'>
   <img width="450"src="https://bit.ly/3ylMdIS">
 </p>
