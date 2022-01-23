@@ -12,7 +12,7 @@
 <h3 align='center'>Stats</h3>
 <p>
   <img width="450"src="https://bit.ly/3ylMdIS">
-  <img width="350"src="https://bit.ly/3xjeuiX">
+  <img width="350"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatnadeepYSVS&layout=compact">
 </p>
 <p align="center">
   <img width="600"src="https://bit.ly/3qGNeZq">
