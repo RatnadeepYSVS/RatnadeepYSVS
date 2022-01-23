@@ -12,5 +12,4 @@
 <h3 align='center'>Stats</h3>
 <p>
   <img width="450"src="https://bit.ly/3ylMdIS">
-  <img width="350"src="https://bit.ly/3xjeuiX">
 </p>
