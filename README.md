@@ -8,6 +8,7 @@
       <a href='#'><img src='https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg' width="100" height="100"></a>
       <a href='#'><img src='https://bit.ly/3jyFua4' width="90" height="100"></a>
       <a href='#'><img src='https://bit.ly/2TpOGmA' width="100" height="100"></a>
+      <a href='#'><img src='https://cdn.worldvectorlogo.com/logos/next-js.svg' width="100" height="100"></a>
 </p>
 <h3 align='center'>Stats</h3>
 <p align='center'>
